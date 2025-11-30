@@ -1,5 +1,11 @@
 ## **Resources**
 
+### **Blogs**
+
+[Model_Optimization_Basics](https://www.ultralytics.com/blog/what-is-model-optimization-a-quick-guide)
+
+[Model_Optimization_OpenAI](https://platform.openai.com/docs/guides/model-optimization)
+
 ### **Julius Pfrommer**
 
 [Optimization_Method_for_Machine_Learning_Models](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)
